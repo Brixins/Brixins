@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola soy un estudiante que esta aprendiendo algoritmia
 
 <!--
 **Brixins/Brixins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
